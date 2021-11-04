@@ -1,0 +1,94 @@
+<tr>
+    <td>Window Coolers</td>
+    <td>$110</td>
+    <td>Paid</td>
+    <td><span class="status pending">Pending</span></td>
+</tr>
+<tr>
+    <td>Speakers</td>
+    <td>$620</td>
+    <td>Paid</td>
+    <td><span class="status return">Return</span></td>
+</tr>
+<tr>
+    <td>Hp Laptop</td>
+    <td>$110</td>
+    <td>Due</td>
+    <td><span class="status inprogress">In Progress</span></td>
+</tr>
+<tr>
+    <td>Apple Watch</td>
+    <td>$1200</td>
+    <td>Paid</td>
+    <td><span class="status delivered">Delivered</span></td>
+</tr>
+<tr>
+    <td>Wall fan</td>
+    <td>$110</td>
+    <td>Paid</td>
+    <td><span class="status pending">Pending</span></td>
+</tr>
+<tr>
+    <td>Adidas Shoes</td>
+    <td>$620</td>
+    <td>Paid</td>
+    <td><span class="status return">Return</span></td>
+</tr>
+<tr>
+    <td>Denim Shirts</td>
+    <td>$110</td>
+    <td>Due</td>
+    <td><span class="status inprogress">In Progress</span></td>
+</tr>
+<tr>
+    <td>Casual Shoes</td>
+    <td>$575</td>
+    <td>Paid</td>
+    <td><span class="status pending">Pending</span></td>
+</tr>
+<tr>
+    <td>Wall fan</td>
+    <td>$110</td>
+    <td>Paid</td>
+    <td><span class="status pending">Pending</span></td>
+</tr>
+
+
+
+<tr>
+    <td><div class="imgBx"><img src="img/img2.jpg"></div></td>
+    <td><h4>Muhammad<br><span>India</span></h4></td>
+</tr>
+<tr>
+    <td><div class="imgBx"><img src="img/img3.jpg"></div></td>
+    <td><h4>Amelia<br><span>France</span></h4></td>
+</tr>
+<tr>
+    <td><div class="imgBx"><img src="img/img4.jpg"></div></td>
+    <td><h4>Olivia<br><span>USA</span></h4></td>
+</tr>
+<tr>
+    <td><div class="imgBx"><img src="img/img5.jpg"></div></td>
+    <td><h4>Amit<br><span>Japan</span></h4></td>
+</tr>
+<tr>
+    <td><div class="imgBx"><img src="img/img6.jpg"></div></td>
+    <td><h4>Ashraf<br><span>India</span></h4></td>
+</tr>
+<tr>
+    <td><div class="imgBx"><img src="img/img7.jpg"></div></td>
+    <td><h4>Diana<br><span>Malaysia</span></h4></td>
+</tr>
+<tr>
+    <td><div class="imgBx"><img src="img/img8.jpg"></div></td>
+    <td><h4>Amit<br><span>India</span></h4></td>
+</tr>
+
+
+borderColor: [
+                'rgba(255, 99, 132, 1)',
+                'rgba(54, 162, 235, 1)',
+                'rgba(255, 206, 86, 1)',
+                'rgba(75, 192, 192, 1)',
+                'rgba(153, 102, 255, 1)'
+            ],
